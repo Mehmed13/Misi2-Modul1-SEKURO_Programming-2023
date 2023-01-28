@@ -7,9 +7,9 @@ Yak, pada misi yang bernilai 1 juta berry ini kalian diminta untuk melakukan for
 Berdasarkan arahan dari Kapten Luffy, Nakama-tachi diminta untuk melakukan beberapa perubahan README dengan mengisi hal berikut ini, **YOHOHOHO**.
 Berikut Contohnya:
 1. Identitas
-  > Nama: Yonkou Bryan <br>
+  > Nama: Bryan Bernigen <br>
    NIM: 13599999 <br>
-  Fakultas: STEI
+  Fakultas: STEI-K
   
 2. Pengalaman Programming di Bidang Robotika<br>
   > Saya pernah berada di divisi programming robotika dan mendapat juara 1 lomba robotika tingkat nasional.
