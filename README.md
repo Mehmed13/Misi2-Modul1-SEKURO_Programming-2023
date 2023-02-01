@@ -15,7 +15,7 @@ Berdasarkan arahan dari Kapten Luffy, Nakama-tachi diminta untuk melakukan beber
   > Saya belum memiliki pengalaman programming pada bidang robotika.
  
 3. Harapan Setelah Mengikuti SEKURO<br>
-  > Menambah pengetahuan dan mengasah kemampuan programming saya dalam bidang robotika **HOHOHO*
+  > Menambah pengetahuan dan mengasah kemampuan programming saya dalam bidang robotika **HOHOHO**
 
 Setelah itu, Nakama-tachi bisa melakukan pull request sebagai tanda keanggotaan Straw Hat dan berhak atas 1 juta berry pertama. Judul dari pull request yang kalian lakukan harus mengikuti format: `NIM-Nama`. Contoh: `13599999-Younkou Bryan`
 
