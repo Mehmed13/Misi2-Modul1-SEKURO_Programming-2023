@@ -12,7 +12,7 @@ Berdasarkan arahan dari Kapten Luffy, Nakama-tachi diminta untuk melakukan beber
   Fakultas: FMIPA-IPA
   
 2. Pengalaman Programming di Bidang Robotika<br>
-  > Belum memiliki pengalaman programming di bidang robotika, tetapi saya ingin mendalami programming di bidang robotika ini
+  > Belum pernah memiliki pengalaman programming di bidang robotika, tetapi saya ingin mendalami programming di bidang robotika ini
  
 3. Harapan Setelah Mengikuti SEKURO<br>
   > Mengasah dan Memperdalam ilmu pemograman, menambah pengalaman dalam pemograman karena tertarik dengan dunia pemograman dan menambah ilmu lain selain programming di bidang robotika dan bisa menjadi Nakama bang luffy serta bergabung dengan nakama lainnya, jadi pendampingnya kapten luffy juga boleh avv #saingan hancock **YOHOHOHO**
