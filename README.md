@@ -10,11 +10,11 @@ Berdasarkan arahan dari Kapten Luffy, Nakama-tachi diminta untuk melakukan beber
 NIM: 19622105
 Fakultas: STEI-K
 
-## Pengalaman Programming di Bidang Robotika
+Pengalaman Programming di Bidang Robotika
 
 >Tidak ada sama sekali
 
-## Harapan Setelah Mengikuti SEKURO
+Harapan Setelah Mengikuti SEKURO
 
 >I want to become so powerful at robotics i'd isekai the truck kun instead
 
