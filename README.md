@@ -8,4 +8,4 @@
     null
  
 3. Harapan Setelah Mengikuti SEKURO<br>
-  > Mengasah dan Memperdalam ilmu programming di bidang robotika dan bisa menjadi seperti dokter vegapunk 
+  > Mengasah dan Memperdalam ilmu programming di bidang robotika dan dapat berkontribusi di dalam unit robotika ITB
