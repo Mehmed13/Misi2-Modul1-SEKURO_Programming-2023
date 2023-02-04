@@ -1,22 +1,17 @@
-# Misi 2 Modul 1 SEKURO Programming 2023
-**YOHOHOHO**.... (Ala-ala Brooke Wanpis). <br>
-Kayaknya ada yang kurang lengkap dari misi 1 tadi !!! <br>
-**NANI??? SORE WAA GOMU-GOMU NO FORKKKK** <br>
 
-Yak, pada misi yang bernilai 1 juta berry ini kalian diminta untuk melakukan **forking** pada repository ini.
 
-Berdasarkan arahan dari Kapten Luffy, Nakama-tachi diminta untuk melakukan beberapa perubahan README dengan mengisi hal berikut ini, **YOHOHOHO**. Kalian harus menambahkan (1) Identitas (Nama, NIM, Fakultas), (2) Pengalaman Programming di Bidang Robotika, dan (3) Harapan Setelah Mengikuti SEKURO. Contoh:
+
 1. Identitas
-  > Nama: Yonkou Bryan <br>
-   NIM: 13599999 <br>
-  Fakultas: STEI
+  > Nama: Muhammad Arifin Husein <br>
+   NIM: 10221021 <br>
+  Fakultas: FMIPA
   
 2. Pengalaman Programming di Bidang Robotika<br>
-  > Saya pernah berada di divisi programming robotika dan mendapat juara 1 lomba robotika tingkat nasional.
+  > Sampai saat ini Saya belum pernah ada pengalaman dalam bidang robotika namun Saya sudah pernah mempelajari fondasinya seperti elektronika dasar.
  
 3. Harapan Setelah Mengikuti SEKURO<br>
-  > Mengasah dan Memperdalam ilmu di bidang robotika dan bisa menjadi Yonkou ke-5, **YOHOHOHO**
+  > Saya bisa memiliki kemampuan dasar dalam ilmu robotika
 
-Setelah itu, Nakama-tachi bisa melakukan pull request sebagai tanda keanggotaan Straw Hat dan berhak atas 1 juta berry pertama. Judul dari pull request yang kalian lakukan harus mengikuti format: `NIM-Nama`. Contoh: `13599999-Younkou Bryan`
+
 
 **IKUZOOOOO MINNAA**
