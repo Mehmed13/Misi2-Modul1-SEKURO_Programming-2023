@@ -12,7 +12,7 @@ Berdasarkan arahan dari Kapten Luffy, Nakama-tachi diminta untuk melakukan beber
   Fakultas: STEI
   
 2. Pengalaman Programming di Bidang Robotika<br>
-  > Saya belum memiliki pengalaman.
+  > Saya belum memiliki pengalaman di Bidang RObotika.
  
 3. Harapan Setelah Mengikuti SEKURO<br>
   > Mempelajari dan memahami ilmu di bidang robotika, serta mengaplikasikannya pada bidang yang sesuai atau bidang yang saya minati.
