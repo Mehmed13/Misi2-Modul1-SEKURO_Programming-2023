@@ -7,15 +7,15 @@ Yak, pada misi yang bernilai 1 juta berry ini kalian diminta untuk melakukan **f
 
 Berdasarkan arahan dari Kapten Luffy, Nakama-tachi diminta untuk melakukan beberapa perubahan README dengan mengisi hal berikut ini, **YOHOHOHO**. Kalian harus menambahkan (1) Identitas (Nama, NIM, Fakultas), (2) Pengalaman Programming di Bidang Robotika, dan (3) Harapan Setelah Mengikuti SEKURO. Contoh:
 1. Identitas
-  > Nama: Yonkou Bryan <br>
-   NIM: 13599999 <br>
-  Fakultas: STEI
+  > Nama: Owen Tobias Sinurat <br>
+   NIM: 19622270 <br>
+  Fakultas: STEI-K
   
 2. Pengalaman Programming di Bidang Robotika<br>
-  > Saya pernah berada di divisi programming robotika dan mendapat juara 1 lomba robotika tingkat nasional.
+  > Saya tidak memiliki pengalaman programming di bidang robotika, tetapi saya memiliki pengalaman programming C++ selama beberapa bulan hingga ke topik Object Oriented Programming sehingga akan sangat membantu karena saya tidak perlu belajar dari awal lagi.
  
 3. Harapan Setelah Mengikuti SEKURO<br>
-  > Mengasah dan Memperdalam ilmu di bidang robotika dan bisa menjadi Yonkou ke-5, **YOHOHOHO**
+  > Saya memiliki banyak harapan di SEKURO 2023 ini, yang pertama adalah saya berharap bisa mendapatkan banyak ilmu dan pengetahuan yang diperlukan untuk masuk ke dunia programming robotik, harapan yang kedua adalah saya ingin bisa menambah banyak teman yang memiliki minta tinggi di bidang robotika seperti saya, harapan yang ketiga adalah saya bisa diterima menjadi anggota URO ITB dan masuk ke dalam tim favorit saya yaitu KRSBI-H.
 
 Setelah itu, Nakama-tachi bisa melakukan pull request sebagai tanda keanggotaan Straw Hat dan berhak atas 1 juta berry pertama. Judul dari pull request yang kalian lakukan harus mengikuti format: `NIM-Nama`. Contoh: `13599999-Younkou Bryan`
 
